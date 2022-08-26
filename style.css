@@ -64,9 +64,64 @@ span {
     width: 100%;
 }
 
-.second-section {}
+.second-section {
+    margin: 0 42px;
+}
 
 .second-section-title {
     text-align: center;
     margin-top: 50px;
+}
+
+.second-section-title h1 {
+    font-size: 30px;
+}
+
+.second-section-card {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 80px 0;
+}
+
+#card-1-bg {
+    background-color: rgba(18, 98, 202, 0.1);
+}
+
+#card-2-bg {
+    background-color: rgba(2, 23, 255, 0.1);
+}
+
+#card-3-bg {
+    background-color: rgba(213, 2, 255, 0.1);
+}
+
+.second-section-card img {
+    height: 35%;
+    width: 35%;
+}
+
+.second-section-card-divied {
+    width: 29%;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.second-section-card-divied h4 {
+    color: rgb(18, 18, 110);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.second-section-card-divied p {
+    color: rgb(104, 116, 126);
+}
+
+.second-section-ancor a {
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(39, 39, 177);
+    padding: 5px 10px;
+    border-radius: 5px;
+
 }
