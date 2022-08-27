@@ -125,3 +125,57 @@ span {
     border-radius: 5px;
 
 }
+
+.thard-section {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 120px;
+}
+
+.thard-section-devied {
+    display: flex;
+
+}
+
+#thard-section-bg {}
+
+.thard-section-half {
+    width: 80%;
+
+}
+
+.thard-section-half img {
+    height: 80%;
+    width: 80%;
+
+}
+
+.thard-section-half h1 {
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.thard-section-half p {
+    color: rgb(91, 86, 86);
+    font-size: 18px;
+}
+
+.thard-section-ancor {
+    margin-top: 55px;
+}
+
+.thard-section-ancor a {
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(39, 39, 177);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#forth-section-bg {
+    margin-top: 30px;
+    padding-left: 150px;
+}
