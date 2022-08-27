@@ -190,3 +190,9 @@ span {
 #fifth-end {
     margin-top: 130px;
 }
+
+.footer-section-area {
+    background-color: rgba(2, 23, 255, 0.1);
+    text-align: center;
+    padding: 10px;
+}
